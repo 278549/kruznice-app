@@ -1,4 +1,4 @@
-# Kruznice App
+# Kružnice App
 
 Tato aplikace umožňuje vykreslit body na kružnici podle zadaného středu, poloměru, počtu bodů a barvy.
 
